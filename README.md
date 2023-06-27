@@ -2,9 +2,11 @@
   <h1>2023 지역 치안 안전 데이터 분석 경진대회<br><br>
   🚔 음주운전 신고건수 예측 모델 개발</h1>
 </div>
-
-<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
-    📅 진행기간 : 2023.02.01 ~ 2023.02.25</h3>
+<br>
+<h4> 💭 Language : Python <br><br>
+     📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Geopandas, Scikit-learn <br><br>
+     🛠  Tool : Jupyter <br><br>
+     📅 진행기간 : 2023.02.01 ~ 2023.02.25</h4><br>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
